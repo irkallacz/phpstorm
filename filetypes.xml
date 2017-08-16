@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".git-ftp-ignore" type="Ignore file" />
+      <mapping ext="developer" type="Neon" />
       <mapping ext="production" type="Neon" />
+      <mapping pattern=".git-ftp-ignore" type="Ignore file" />
     </extensionMap>
   </component>
 </application>
