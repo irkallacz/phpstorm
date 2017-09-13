@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bf82af7a-0337-4eed-9120-24a90dfb7f60" name="localhost" url="http://localhost/wordpress/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
