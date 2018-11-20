@@ -5,7 +5,6 @@
       <mapping pattern=".git-ftp-ignore" type="Ignore file" />
       <mapping ext="developer" type="Neon" />
       <mapping ext="production" type="Neon" />
-      <mapping pattern="newRegistration.latte" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
